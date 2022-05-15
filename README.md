@@ -1,2 +1,12 @@
 # CLAHE-with-low-stain-images
-![](before_clahe.png) ![](after_clahe.png)
+
+
+python process.py --input_path   --output_path
+
+before clahe
+
+![](before_clahe.png) 
+
+after clahe
+
+![](after_clahe.png)
